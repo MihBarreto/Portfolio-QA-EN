@@ -12,14 +12,14 @@ I usually say that I was born to be a QA professional, not because of any family
  <br/>We chose to use a hybrid methodology with Scrum and Kanban. We held daily meetings to report on our testing progress and align our needs. By using Kanban in Trello, we were able to manage the priority of our tasks and the flow of our work. (image below).
  <img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kanban.png" width="400" height="250">
  
- - Teste e cenários:
- <br/> Foram propostos três grandes cenários de teste: <i>Login, Fluxo de Compras e Logoff</i>. A partir daí, deveríamos detalhar os cenários em <i>Gherkin</i> e executar testes manuais para descobrir se todos os cenários executariam o caminho feliz ou resultariam em um bug.
+ - Tests and scenarios:
+ <br/> Three major test scenarios were proposed: <i>Login, Purchase Flow, and Logout</i>. From there, we fleshed out the scenarios in <i>Gherkin</i> and conducted manual tests to verify if all scenarios could run without problems or result in a bug
  
 <img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/testesecenarios.png" width="400" height="250">
-Como um extra, executamos também testes exploratórios onde identificamos diversos bugs que não foram previstos em nenhum cenário, como por exemplo textos não traduzidos e botões com links quebrados.
+As an extra step, we also conducted exploratory tests where we identified several bugs that were not covered in any scenario, such as untranslated text and buttons with broken links.
 
 <br/><img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/bugexplorat%C3%B3rio.png" width="400" height="250">
 
-- Time e o meu papel:
-<br/>Como se trata de um trabalho em equipe, acredito ser necessário explicitar minha experiência individual. Fui a porta voz da equipe na apresentação final, mas todas realizamos o trabalho igualmente. Todas testamos, escrevemos cenários, report de bugs e geramos evidências de teste, bem como participamos das decisões relacionadas à horário e organização. Foi uma experiência intensa de colaboração em equipe.
+- The squad and my tasks:
+<br/>As this was a team effort, I believe it is necessary to explain my individual experience. I served as the spokesperson for the team during the final presentation, but we all contributed equally to getting the job done. We all tested, wrote scenarios, reported bugs, generated test evidence, and participated in decisions related to scheduling and organization. It was an intense team collaboration experience.
    
