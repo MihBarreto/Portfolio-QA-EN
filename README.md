@@ -5,11 +5,11 @@ I usually say that I was born to be a QA professional, not because of any family
  <h2><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kitty.png" width="100" height="100"> Projetos</h2>
 
 <h3><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/jogajunto.png" width="100" height="40"> 
- <br/>Final Assignment - Formação "O QA tá ON" - <a href ="https://jogajuntoinstituto.org/">Instituto Joga Junto</a></h3>
+ <br/>Final Assignment - Project "O QA tá ON" - <a href ="https://jogajuntoinstituto.org/">Instituto Joga Junto</a></h3>
  
- O projeto final tratava-se de reempregar as habilidades que adquirimos durante a formação, no aplicativo mobile Rappi.
- - Organização:
- <br/>Nós optamos por usar uma metodologia mista de SCRUM e KANBAN. Fizemos dailies para reportar resultado de testes e alinhar as demandas. Já para definir prioridade das tasks e fluxo de trabalho, utilizamos o KANBAN no TRELLO (imagem abaixo).
+ The final assignment had the objective of applying all that we learned during the classes, using the mobile app Rappi as a case study.
+ - Organization:
+ <br/>We chose to use a hybrid methodology with Scrum and Kanban. We held daily meetings to report on our testing progress and align our needs. By using Kanban in Trello, we were able to manage the priority of our tasks and the flow of our work. (image below).
  <img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kanban.png" width="400" height="250">
  
  - Teste e cenários:
