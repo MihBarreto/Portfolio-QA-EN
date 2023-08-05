@@ -29,3 +29,7 @@ As an extra step, we also conducted exploratory tests where we identified severa
 ♥ Perform bug mapping in order to determine the urgency of their resolutions, based on the contractor's business objectives.<br/>
 This example is a real test mapping, part of a test cycle for a delivery app. Functional and exploratory tests took place in both, the tester version of the app and production.
 <img src="https://github.com/MihBarreto/MihBarreto/blob/main/img/testmap.png" width="400" height="250">
+
+♥ I have the ability to conduct (and a notion of how to plan) a few blackbox functional tests, such as compatibility tests, smoke tests, exploratory tests, and regression tests. I'm also learning test automation. You can check my progress in the following repositories :point_down:
+
+https://github.com/MihBarreto/automated-test-google-check
