@@ -23,3 +23,9 @@ As an extra step, we also conducted exploratory tests where we identified severa
 - The squad and my tasks:
 <br/>As this was a team effort, I believe it is necessary to explain my individual experience. I served as the spokesperson for the team during the final presentation, but we all contributed equally to getting the job done. We all tested, wrote scenarios, reported bugs, generated test evidence, and participated in decisions related to scheduling and organization. It was an intense team collaboration experience.
    
+ <h2><img src ="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/kitty%20(2).png" width="100" height="100"> I have the following skills:</h2>   
+♥ To conceive test cases and transcribe them into Gherkin.
+<img src="https://github.com/MihBarreto/MihBarreto/blob/main/img/gherkin.png" width="500" height="250"><br/>
+♥ Perform bug mapping in order to determine the urgency of their resolutions, based on the contractor's business objectives.<br/>
+This example is a real test mapping, part of a test cycle for a delivery app. Functional and exploratory tests took place in both, the tester version of the app and production.
+<img src="https://github.com/MihBarreto/MihBarreto/blob/main/img/testmap.png" width="400" height="250">
