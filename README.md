@@ -37,3 +37,4 @@ This example is a real test mapping, part of a test cycle for a delivery app. Fu
 ♥ I have the ability to conduct (and a notion of how to plan) a few blackbox functional tests, such as compatibility tests, smoke tests, exploratory tests, and regression tests. I'm also learning test automation. You can check my progress in the following repositories :point_down:
 
 https://github.com/MihBarreto/automated-test-google-check
+https://github.com/MihBarreto/cypress-course
